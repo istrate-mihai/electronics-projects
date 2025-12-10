@@ -5,7 +5,7 @@ import PCBIcon from './components/PCBIcon';
 function App() {
   const displayedVideos = videos.map(video => {
       return (
-        <div key={video.id} className="video-card">
+        <div key={video.filename} className="video-card">
           <h2>{video.title}</h2>
 
           <div className="video-wrapper">
