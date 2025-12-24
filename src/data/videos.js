@@ -1,5 +1,15 @@
 const videoData = [
     {
+        title: "Obstacle Avoiding Robot - Archie - Test 1",
+        filename: "Obstacle Avoiding Robot - Archie - Test 1.mp4",
+        path: "Arduino/Archie/Obstacle Avoiding Robot - Archie - Test 1.mp4",
+    },
+    {
+        title: "Twilight Sensor",
+        filename: "Twilight_Sensor.mp4",
+        path: "Permanent Circuits/Twilight_Sensor.mp4",
+    },
+    {
         title: "Police Car Lights",
         filename: "Police_Car_Lights.mp4",
         path: "Traffic Lights/Police_Car_Lights.mp4",
@@ -26,14 +36,19 @@ const videoData = [
         path: "Astable Oscilator/Astable_Oscilator.mp4",
     },
     {
-        title: "Dynamic Light 1",
-        filename: "Dynamic_Light_1.mp4",
-        path: "Dynamic Lights/Dynamic_Light_1.mp4",
+        title: "Dynamic Lights 1",
+        filename: "Dynamic_Lights_1.mp4",
+        path: "Dynamic Lights/Dynamic_Lights_1.mp4",
     },
     {
-        title: "Dynamic Light 2",
-        filename: "Dynamic_Light_2.mp4",
-        path: "Dynamic Lights/Dynamic_Light_2.mp4",
+        title: "Dynamic Lights 2",
+        filename: "Dynamic_Lights_2.mp4",
+        path: "Dynamic Lights/Dynamic_Lights_2.mp4",
+    },
+    {
+        title: "Dynamic Lights 3",
+        filename: "Dynamic_Lights_3.mp4",
+        path: "Dynamic Lights/Dynamic_Lights_3.mp4",
     },
     {
         title: "Head Or Tails",
